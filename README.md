@@ -4,7 +4,7 @@
 
 - 👯 I’m looking for a new job.
 
-- 💬 Ask me about **react, Redux, Chakra, SQL, MongoDb, Node, Express**
+- 💬 Ask me about **React.js, Redux, Chakra, SQL, MongoDb, Node, Express**
 - 📫 Reach me at **lizaggs@gmail.com**
 - 👨‍💻 All of my projects are available at [LizaGS](https://LizaGS.github.io)
 - ⚡ Fun fact **Coffee tastes way better than Tea | Change my mind!**
