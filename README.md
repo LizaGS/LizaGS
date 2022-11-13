@@ -4,9 +4,9 @@
 
 - 👯 I’m looking for a new job.
 
-- 💬 Ask me about **react, Redux, Chakra, SQL, MongoDb, Node, Express**
+- 💬 Ask me about **React.js, Redux, Chakra, SQL, MongoDb, Node, Express**
 - 📫 Reach me at **lizaggs@gmail.com**
-- 👨‍💻 All of my projects are available at [LizaGS](https://LizaGS.github.io)
+- 👨‍💻 All of my projects are available at [LizaGS](https://lizags.vercel.app/)
 - ⚡ Fun fact **Coffee tastes way better than Tea | Change my mind!**
 
 <h3 align="left">Connect with me:</h3>
@@ -26,4 +26,4 @@
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> 
     <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="40" height="40"/> </a> 
     </p>
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=lizags&show_icons=true alt=lizags /> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=LizaGS&show_icons=true alt=LizaGS /> </p>
